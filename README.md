@@ -1,15 +1,14 @@
-# Eyes Excercise
+# Pacman
 
 
 ## Description
 
-This JavaScript project creates a simple animation where a map marker follows bus coordinates. It's an interactive way to showcase DOM manipulation using JavaScript and Google Maps API. 
+This JavaScript project creates a simple animation where a Pacman is created, moves in a random direction and bounces everytime it touches the edge of the window. It's an interactive way to showcase DOM manipulation using JavaScript . 
 
 ## Features
 
-- Bus tracking.
-- Animation follows the coordinates.
-- Displays animation in a map 
+- Create Pacmans.
+- Bouncing animation.
 
 ## Usage
 
@@ -17,12 +16,11 @@ This JavaScript project creates a simple animation where a map marker follows bu
 
 2. Open the `index.html` file in your web browser.
 
-3. Press button to get the bus tracker.
+3. Press button to create a Pacman and start to start moving all Pacmans.
 
 ##  Future Enhancements
--  Add a real-time tracker
--  Change the map marker to follow the direction the bus is moving.
-
+-  Image of pacman changes depending of their direction of moving
+-  Bounces with the other Pacmans
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
